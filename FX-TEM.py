@@ -1,3 +1,3 @@
 import os
 import ran
-ran.loging.()
+ran.loging()
